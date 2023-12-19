@@ -12,11 +12,11 @@ payload = {
     "Timestamp": "20231219231804",
     "TransactionType": "CustomerPayBillOnline",
     "Amount": 1,
-    "PartyA": 254708374149,
+    "PartyA": 254723079408,
     "PartyB": 174379,
-    "PhoneNumber": 254708374149,
+    "PhoneNumber": 254727245144,
     "CallBackURL": "https://mydomain.com/path",
-    "AccountReference": "CompanyXLTD",
+    "AccountReference": "SHUGU",
     "TransactionDesc": "Payment of X" 
   }
 ​
